@@ -11,3 +11,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Do NOT ignore Gradle Wrapper JAR
+!gradle/wrapper/gradle-wrapper.jar
